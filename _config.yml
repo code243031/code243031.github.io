@@ -10,6 +10,8 @@ excerpt_separator: <!--more-->
 title:            Friday Theme            # Site title
 name:             Friday Theme            # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
+remote_theme :    sfreytag/friday-theme
+url:              "https://code243031.github.io"
 
 # The theme uses the baseurl throughout, which is useful for running the entire
 # site under a subdir, like for this GitHub Pages deployment as a project site.
@@ -69,5 +71,3 @@ defaults:
     values:
       show_profile: false
       layout: defaults/list
-
-
