@@ -7,8 +7,8 @@ highlighter:      rouge
 excerpt_separator: <!--more-->
 
 # Config for your profile.
-title:            Friday Theme            # Site title
-name:             Friday Theme            # Your name
+title:            자기개발 만만세          # Site title
+name:             Neighbor J              # Your name
 avatar:           /theme/img/avatar.jpg   # Path to an avatar image
 remote_theme :    sfreytag/friday-theme
 url:              "https://code243031.github.io"
