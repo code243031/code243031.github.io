@@ -2,7 +2,7 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: J의 사생활
+title: J의 블로그에 온 것을 환영합니다.
 ---
 
 ## J, 누구냐 넌
