@@ -2,16 +2,16 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: J의 사생활
 ---
 
-## What is it?
+## J, 누구냐 넌
 
 {% include components/intro.md %}
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
-## How to use it
+## 이 홈페이지를 개설한 목적
 
 This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
 
@@ -21,7 +21,7 @@ This web site is the documentation for the theme and also provides examples of h
 
 <hr />
 
-### Recent Posts
+### 최근 게시글
 
 {% for post in site.posts limit:3 %}
 {% include components/post-card.html %}
