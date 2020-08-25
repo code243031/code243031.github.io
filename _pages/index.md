@@ -11,9 +11,9 @@ title: J의 블로그에 온 것을 환영합니다.
 
 [Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
 
-## 이 홈페이지를 개설한 목적
+## 주요 관심사
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
+<iframe width="640" height="360" src="https://youtu.be/1UweEFUVj3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
 
 [The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
 
