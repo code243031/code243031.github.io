@@ -13,10 +13,9 @@ title: J의 블로그에 온 것을 환영합니다.
 
 ## 주요 관심사
 
-<iframe width="640" height="360" src="https://youtu.be/1UweEFUVj3s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
-
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
-
+{% include _includes/youtube/main.html id="https://youtu.be/1UweEFUVj3s" %}  
+[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.  
+  
 [The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
 
 <hr />
