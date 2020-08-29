@@ -9,9 +9,9 @@ images:
   - https://images.unsplash.com/photo-1504626835342-6b01071d182e?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=975855d515c9d56352ee3bfe74287f2b&auto=format&fit=crop&w=1651&q=80
 ---
 
-## What is it?
+## 프로필
 
-{% include components/intro.md %}
+{% include components/profile.md %}
 
 ## Full Feature List
 
@@ -125,5 +125,3 @@ There's a suite of hundreds of Entypo icons included, here's just a few.
         {% include entypo/shopping-cart.svg %}
     </span>
 </div>
-
-
