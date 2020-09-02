@@ -10,4 +10,4 @@
 >[테마 제작자 블로그](https://sfreytag.github.io/friday-theme/projects/install.html).
 >테마 제작자 이메일 : Email simon@freytag.org.uk
 
-<img src="theme\img\캡쳐.JPG">
+![](https://github.com/code243031/code243031.github.io/blob/master/theme/img/%EC%BA%A1%EC%B2%98.JPG)
